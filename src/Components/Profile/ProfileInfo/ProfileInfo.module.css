@@ -1,0 +1,67 @@
+.profileMainData {
+    display: grid;
+    grid-template-areas: 'avatar name' 'avatar status' 'avatar info';
+    grid-template-columns: 310px auto;
+}
+
+.profileAvatar {
+    grid-area: avatar;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.profileAvatar img {
+    cursor: pointer;
+}
+
+.profileFullName {
+    grid-area: name;
+    font-size: 2em;
+    text-align: center;
+    margin: 10px;
+}
+
+.profileStatus {
+    grid-area: status;
+    text-align: center;
+    position: relative;
+    top: -10px;
+    color: #c68bcb;
+    cursor: pointer;
+}
+
+.profilePersonalInfo {
+    grid-area: info;
+    position: relative;
+    top: -20px;
+    color: #c68bcb;
+}
+
+.profileAboutMe {
+    margin: 10px;
+}
+
+.profileLookingForAJob {
+    margin: 10px;
+}
+
+.profileLookingForAJobDescription {
+    margin: 10px;
+}
+
+.labelOfItem {
+    text-align: center;
+    color: #c61ed2;
+}
+
+.contacts {
+    margin: 10px;
+}
+
+.profileEditInfoButton {
+    text-align: center;
+}
+
+.userFollowUnfollowButton {
+    margin-left: 120px;
+}

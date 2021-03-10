@@ -1,0 +1,72 @@
+.appWrapper {
+    position: fixed;
+    display: grid;
+    grid-template-areas: 'h h h h' '. n c. ';
+    grid-template-columns:auto 200px 730px auto;
+    grid-template-rows: 80px auto;
+    grid-gap: 10px;
+    background-image: url('../src/Components/Assets/Images/background.jpg');
+    background-color: #101117;
+    background-position: center;
+    background-size: 100%;
+    width: 100.05%;
+    height: 100%;
+}
+
+.header {
+    grid-area: h;
+    background-color: #032542;
+    border: 2px solid #c61ed2;
+    border-radius: 10px;
+    height: 80px;
+
+}
+
+.navBar {
+    grid-area: n;
+    background-color: #032542;
+    border: 2px solid #c61ed2;
+    border-radius: 10px;
+    height: 210px;
+    top: 100px;
+    width: 200px;
+}
+.content {
+    grid-area: c;
+    background-color: #032542;
+    border: 2px solid #c61ed2;
+    border-radius: 10px;
+    width: 730px;
+    height: 98%;
+    top: 100px;
+    font-size: 1.2em;
+    color: #c61ed2;
+    overflow: auto;
+}
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    background-color: #ba6dc8;
+}
+::-webkit-scrollbar{
+    width: 4px;
+}
+button {
+    background-color: #ba6dc8;
+    color: white;
+    font-size: 16px;
+    border: 1px solid #032542;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+hr {
+    margin: 10px 0;
+    padding: 0;
+    height: 2px;
+    border: none;
+    background: linear-gradient(to left, #032542 5%, #c61ed2 50%, #032542 95%);
+}
+
+
+

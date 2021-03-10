@@ -1,0 +1,24 @@
+.usedTechnologies {
+    display: grid;
+    grid-template-areas: 'head head' 'tech conc';
+    margin: 10px;
+}
+
+.header {
+    grid-area: head;
+    text-align: center;
+}
+
+.technologies {
+    grid-area: tech;
+}
+
+.concepts {
+    grid-area: conc;
+}
+
+.technologies ul, .concepts ul {
+    color: #c68bcb;
+}
+
+

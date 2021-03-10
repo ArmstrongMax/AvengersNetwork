@@ -1,0 +1,36 @@
+.welcomePage {
+    display: grid;
+    min-height: 100%;
+    grid-template-areas: 'g' 'm' 'c';
+    grid-template-rows: auto 1fr auto;
+}
+
+.greetings {
+    grid-area: g;
+    text-align: center;
+}
+
+.mainContent {
+    grid-area: m;
+    margin: 10px;
+}
+
+.conclusion {
+    grid-area: c;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: auto;
+}
+
+.link {
+    color: #c61ed2;
+    text-decoration: none;
+}
+
+.credits {
+    text-align: center;
+}
+
+p {
+    color: #c68bcb;
+}

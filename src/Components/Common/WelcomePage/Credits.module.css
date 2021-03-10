@@ -1,0 +1,16 @@
+.credits a {
+    text-decoration: none;
+    color: #c61ed2;
+}
+
+.credits h1 {
+    text-align: center;
+}
+
+.main {
+    margin: 10px;
+}
+
+.links {
+    margin: 10px;
+}

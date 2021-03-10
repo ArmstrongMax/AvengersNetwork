@@ -1,0 +1,20 @@
+.post {
+    display: grid;
+    grid-template-areas: 'avatar content';
+    grid-template-columns: 120px auto;
+    grid-template-rows: auto auto;
+    align-items: center;
+    border: 1px #c61ed2 solid;
+    margin: 10px;
+}
+
+.authorsAvatar{
+    grid-area: avatar;
+}
+
+.authorsAvatar img {
+    border-radius: 100px;
+}
+.postContent{
+    grid-area: content;
+}

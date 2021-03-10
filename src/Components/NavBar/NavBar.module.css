@@ -1,0 +1,32 @@
+.navBar {
+    font-size: 2em;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    top: 5%;
+}
+
+.navItem {
+    text-decoration: none;
+    color: #c61ed2;
+}
+
+.navItemWithTooltip::after {
+    background: rgba(229, 161, 231, 0.8);
+    border-radius: 8px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+    color: #FFF;
+    content: attr(data-tooltip);
+    margin-top: -5px;
+    margin-left: -340px;
+    opacity: 0;
+    padding: 3px 7px;
+    position: absolute;
+    visibility: hidden;
+    transition: all 0.4s ease-in-out;
+}
+
+.navItemWithTooltip:hover::after {
+    opacity: 1;
+    visibility: visible;
+}

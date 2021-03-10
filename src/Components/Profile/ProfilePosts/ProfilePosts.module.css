@@ -1,0 +1,68 @@
+.label {
+    text-align: center;
+    margin: 10px;
+}
+
+.newPostForm {
+    display: grid;
+    grid-template-areas: 'a f';
+    grid-template-columns: 120px auto;
+    align-items: center;
+}
+
+.authorsAvatar {
+    grid-area: a;
+    border-radius: 100px;
+    margin-left: 10px;
+}
+
+.authorsAvatar img {
+    border-radius: 150px;
+}
+
+.postsForm {
+    grid-area: f;
+}
+
+.form {
+    display: grid;
+    grid-template-areas: 't b';
+    grid-template-columns: auto 70px;
+    align-items: center;
+}
+
+.textarea {
+    grid-area: t;
+}
+
+.addButtonArea {
+    grid-area: b;
+}
+
+.textarea textarea {
+    width: 95%;
+    height: 60px;
+    background-color: #e2a5e7;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.addButton::after {
+    background: rgba(229, 161, 231, 0.8);
+    border-radius: 8px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+    color: #FFF;
+    content: attr(data-tooltip);
+    margin-top: -200px;
+    margin-left: -70px;
+    opacity: 0;
+    padding: 3px 7px;
+    position: absolute;
+    visibility: hidden;
+    transition: all 0.4s ease-in-out;
+}
+
+.addButton:hover::after {
+    opacity: 1;
+    visibility: visible;
+}

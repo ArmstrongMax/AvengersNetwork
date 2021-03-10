@@ -1,0 +1,48 @@
+.header {
+    display: grid;
+    grid-template-areas: 'logo search info';
+    grid-template-columns: 380px auto 320px;
+}
+
+.logo {
+    grid-area: logo;
+}
+
+.searchBarForm {
+    grid-area: search;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.currentUserInfo {
+    grid-area: info;
+}
+
+.nicknameAndButton {
+    display: grid;
+    grid-template-areas: 'nickname button';
+    grid-template-columns: auto 100px;
+    margin-top: 7%;
+}
+
+.currentUserLogin {
+    grid-area: nickname;
+    font-size: 2em;
+    color: #c61ed2;
+}
+
+.logoutButton {
+    grid-area: button;
+    margin-right: 10%;
+    background-color: #ba6dc8;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+}
+
+.loginFormRef {
+    font-size: 2em;
+    text-decoration: none;
+    color: #c61ed2;
+}

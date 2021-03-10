@@ -1,0 +1,25 @@
+.saveButton {
+    text-align: center;
+}
+
+.form textarea {
+    width: 95%;
+    height: 60px;
+    background-color: #e2a5e7;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.form h4 {
+    text-align: center;
+}
+
+.form input {
+    width: 95%;
+    margin: 10px;
+}
+
+.contactLabel {
+    color: #ba6dc8;
+    margin-left: 10px;
+}

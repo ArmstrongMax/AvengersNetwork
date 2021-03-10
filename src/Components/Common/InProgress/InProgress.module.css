@@ -1,0 +1,21 @@
+.h1 h1 {
+    text-align: center;
+}
+
+.gif {
+    text-align: center;
+}
+
+.gif img {
+    width: 650px;
+    margin: 10px;
+}
+
+.text {
+    margin: 10px;
+}
+
+.text p {
+    font-size: 1.2em;
+    color: #c68bcb;
+}
