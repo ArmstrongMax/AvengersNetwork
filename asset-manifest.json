@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/ArmstrongMax/Midnight-Place-Network/static/css/main.8a94864b.chunk.css",
-    "main.js": "/ArmstrongMax/Midnight-Place-Network/static/js/main.b6ef683f.chunk.js",
-    "main.js.map": "/ArmstrongMax/Midnight-Place-Network/static/js/main.b6ef683f.chunk.js.map",
-    "runtime-main.js": "/ArmstrongMax/Midnight-Place-Network/static/js/runtime-main.d17ad5d9.js",
-    "runtime-main.js.map": "/ArmstrongMax/Midnight-Place-Network/static/js/runtime-main.d17ad5d9.js.map",
-    "static/js/2.ed1665f4.chunk.js": "/ArmstrongMax/Midnight-Place-Network/static/js/2.ed1665f4.chunk.js",
-    "static/js/2.ed1665f4.chunk.js.map": "/ArmstrongMax/Midnight-Place-Network/static/js/2.ed1665f4.chunk.js.map",
-    "static/js/3.7db327ee.chunk.js": "/ArmstrongMax/Midnight-Place-Network/static/js/3.7db327ee.chunk.js",
-    "static/js/3.7db327ee.chunk.js.map": "/ArmstrongMax/Midnight-Place-Network/static/js/3.7db327ee.chunk.js.map",
-    "index.html": "/ArmstrongMax/Midnight-Place-Network/index.html",
-    "static/css/main.8a94864b.chunk.css.map": "/ArmstrongMax/Midnight-Place-Network/static/css/main.8a94864b.chunk.css.map",
-    "static/js/2.ed1665f4.chunk.js.LICENSE.txt": "/ArmstrongMax/Midnight-Place-Network/static/js/2.ed1665f4.chunk.js.LICENSE.txt",
-    "static/media/Logo.ea88fdf3.png": "/ArmstrongMax/Midnight-Place-Network/static/media/Logo.ea88fdf3.png",
-    "static/media/App.module.css": "/ArmstrongMax/Midnight-Place-Network/static/media/background.78473383.jpg",
-    "static/media/inProgress.1cab58c5.gif": "/ArmstrongMax/Midnight-Place-Network/static/media/inProgress.1cab58c5.gif",
-    "static/media/loadingCircle.3d61e471.gif": "/ArmstrongMax/Midnight-Place-Network/static/media/loadingCircle.3d61e471.gif",
-    "static/media/userDefaultIconLarge.6b292787.png": "/ArmstrongMax/Midnight-Place-Network/static/media/userDefaultIconLarge.6b292787.png"
+    "main.css": "/Midnight-Place-Network/static/css/main.78625e27.chunk.css",
+    "main.js": "/Midnight-Place-Network/static/js/main.b6ef683f.chunk.js",
+    "main.js.map": "/Midnight-Place-Network/static/js/main.b6ef683f.chunk.js.map",
+    "runtime-main.js": "/Midnight-Place-Network/static/js/runtime-main.f50f1891.js",
+    "runtime-main.js.map": "/Midnight-Place-Network/static/js/runtime-main.f50f1891.js.map",
+    "static/js/2.ed1665f4.chunk.js": "/Midnight-Place-Network/static/js/2.ed1665f4.chunk.js",
+    "static/js/2.ed1665f4.chunk.js.map": "/Midnight-Place-Network/static/js/2.ed1665f4.chunk.js.map",
+    "static/js/3.7db327ee.chunk.js": "/Midnight-Place-Network/static/js/3.7db327ee.chunk.js",
+    "static/js/3.7db327ee.chunk.js.map": "/Midnight-Place-Network/static/js/3.7db327ee.chunk.js.map",
+    "index.html": "/Midnight-Place-Network/index.html",
+    "static/css/main.78625e27.chunk.css.map": "/Midnight-Place-Network/static/css/main.78625e27.chunk.css.map",
+    "static/js/2.ed1665f4.chunk.js.LICENSE.txt": "/Midnight-Place-Network/static/js/2.ed1665f4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Midnight-Place-Network/static/media/neon-80s.f9501592.ttf",
+    "static/media/Logo.ea88fdf3.png": "/Midnight-Place-Network/static/media/Logo.ea88fdf3.png",
+    "static/media/App.module.css": "/Midnight-Place-Network/static/media/background.78473383.jpg",
+    "static/media/inProgress.1cab58c5.gif": "/Midnight-Place-Network/static/media/inProgress.1cab58c5.gif",
+    "static/media/loadingCircle.3d61e471.gif": "/Midnight-Place-Network/static/media/loadingCircle.3d61e471.gif",
+    "static/media/userDefaultIconLarge.6b292787.png": "/Midnight-Place-Network/static/media/userDefaultIconLarge.6b292787.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d17ad5d9.js",
+    "static/js/runtime-main.f50f1891.js",
     "static/js/2.ed1665f4.chunk.js",
-    "static/css/main.8a94864b.chunk.css",
+    "static/css/main.78625e27.chunk.css",
     "static/js/main.b6ef683f.chunk.js"
   ]
 }
