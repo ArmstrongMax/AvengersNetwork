@@ -10,7 +10,7 @@ import {Provider} from "react-redux";
 //главная и единственная страничка моего SPA. Здесь мы загружаем store в контекст для connect-ов
 //browserRouter для реагирование на смену URL
 ReactDOM.render(
-    <BrowserRouter>
+       <BrowserRouter>
         <React.StrictMode>
             <Provider store={store}>
                 <App/>

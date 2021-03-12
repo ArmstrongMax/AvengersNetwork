@@ -4,6 +4,7 @@ import {reduxForm} from "redux-form";
 import {maxLengthCustom, requiredField} from "../../../Utils/Validators/Validators"
 import {createField, Textarea} from "../../Common/FormControls/FormControls"
 import styles from './ProfilePosts.module.css'
+import defaultIcon from '../../Assets/Images/userDefaultIcon.png'
 //переменная с максимальной длиной поста. Для валидации
 let maxLength = maxLengthCustom(50)
 //компонент с постами: поле ввода и сами посты. Пока на сервер не идут. Изменения только в UI и BLL
@@ -21,7 +22,7 @@ const ProfilePosts = (props) => {
             </div>
             <div className={styles.newPostForm}>
                 <div className={styles.authorsAvatar}>
-                    <img src={props.profile.photos.small} alt={''}/>
+                    <img src={props.profile.photos.small || defaultIcon} alt={''}/>
                 </div>
                 <div className={styles.postsForm}>
                     <NewPostReduxForm onSubmit={addPost}/>
