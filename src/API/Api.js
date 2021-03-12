@@ -1,12 +1,13 @@
 import * as axios from "axios";
 
 const instance = axios.create({
-    //базовый URL всегда один
+    //единый базовый URL
     baseURL: 'https://social-network.samuraijs.com/api/1.0/',
     //для кросс-доменных запросов
     withCredentials: true,
-    //Уникальный API ключ
+    //Уникальный API ключ (для моего аккаунта. Для тестового прописан свой
     headers: {'API-KEY': '335dcb6e-307b-45ea-855b-d55efc11cc49'}
+
 });
 //каждый API отвечает за свой раздел redux-а
 //Используются запросы get,put,post,delete согласно документации API
