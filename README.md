@@ -13,6 +13,7 @@ But there are many related technologies, such as <ins>ajax</ins>, <ins>react hoo
 <li>Follow/unfollow some people</li>
 <li>Try validate mechanics</li>
 <li>Try a prototype of the future post function</li>
+  <li>Take a look at the code to see my approach and comments on them</li>
 </ul>
 
 <p>I hope you enjoy this place.</p>
