@@ -1,4 +1,5 @@
 # Midnight-Place-Network
+<p>Network address: https://armstrongmax.github.io/Midnight-Place-Network/</p>
 <p>This project is designed to demonstrate my professional front-end development skills to a potential employer. 
 But who knows, maybe as my programming skills grow, this project will turn into something more than the presentation. At least, I really hope so...</p>
 
