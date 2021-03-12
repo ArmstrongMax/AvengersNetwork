@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Midnight-Place-Network/static/css/main.78625e27.chunk.css",
-    "main.js": "/Midnight-Place-Network/static/js/main.0c98ba08.chunk.js",
-    "main.js.map": "/Midnight-Place-Network/static/js/main.0c98ba08.chunk.js.map",
+    "main.js": "/Midnight-Place-Network/static/js/main.c9532720.chunk.js",
+    "main.js.map": "/Midnight-Place-Network/static/js/main.c9532720.chunk.js.map",
     "runtime-main.js": "/Midnight-Place-Network/static/js/runtime-main.f50f1891.js",
     "runtime-main.js.map": "/Midnight-Place-Network/static/js/runtime-main.f50f1891.js.map",
     "static/js/2.ed1665f4.chunk.js": "/Midnight-Place-Network/static/js/2.ed1665f4.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.f50f1891.js",
     "static/js/2.ed1665f4.chunk.js",
     "static/css/main.78625e27.chunk.css",
-    "static/js/main.0c98ba08.chunk.js"
+    "static/js/main.c9532720.chunk.js"
   ]
 }
