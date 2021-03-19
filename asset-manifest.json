@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Midnight-Place-Network/static/css/main.c1522312.chunk.css",
-    "main.js": "/Midnight-Place-Network/static/js/main.23a50423.chunk.js",
-    "main.js.map": "/Midnight-Place-Network/static/js/main.23a50423.chunk.js.map",
+    "main.css": "/Midnight-Place-Network/static/css/main.5b8c2c94.chunk.css",
+    "main.js": "/Midnight-Place-Network/static/js/main.bca103ff.chunk.js",
+    "main.js.map": "/Midnight-Place-Network/static/js/main.bca103ff.chunk.js.map",
     "runtime-main.js": "/Midnight-Place-Network/static/js/runtime-main.f50f1891.js",
     "runtime-main.js.map": "/Midnight-Place-Network/static/js/runtime-main.f50f1891.js.map",
-    "static/js/2.e8285bbf.chunk.js": "/Midnight-Place-Network/static/js/2.e8285bbf.chunk.js",
-    "static/js/2.e8285bbf.chunk.js.map": "/Midnight-Place-Network/static/js/2.e8285bbf.chunk.js.map",
+    "static/js/2.ae904892.chunk.js": "/Midnight-Place-Network/static/js/2.ae904892.chunk.js",
+    "static/js/2.ae904892.chunk.js.map": "/Midnight-Place-Network/static/js/2.ae904892.chunk.js.map",
     "static/js/3.7db327ee.chunk.js": "/Midnight-Place-Network/static/js/3.7db327ee.chunk.js",
     "static/js/3.7db327ee.chunk.js.map": "/Midnight-Place-Network/static/js/3.7db327ee.chunk.js.map",
     "index.html": "/Midnight-Place-Network/index.html",
-    "static/css/main.c1522312.chunk.css.map": "/Midnight-Place-Network/static/css/main.c1522312.chunk.css.map",
-    "static/js/2.e8285bbf.chunk.js.LICENSE.txt": "/Midnight-Place-Network/static/js/2.e8285bbf.chunk.js.LICENSE.txt",
+    "static/css/main.5b8c2c94.chunk.css.map": "/Midnight-Place-Network/static/css/main.5b8c2c94.chunk.css.map",
+    "static/js/2.ae904892.chunk.js.LICENSE.txt": "/Midnight-Place-Network/static/js/2.ae904892.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Midnight-Place-Network/static/media/neon-80s.f9501592.ttf",
     "static/media/Logo.ea88fdf3.png": "/Midnight-Place-Network/static/media/Logo.ea88fdf3.png",
     "static/media/App.module.css": "/Midnight-Place-Network/static/media/background.78473383.jpg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f50f1891.js",
-    "static/js/2.e8285bbf.chunk.js",
-    "static/css/main.c1522312.chunk.css",
-    "static/js/main.23a50423.chunk.js"
+    "static/js/2.ae904892.chunk.js",
+    "static/css/main.5b8c2c94.chunk.css",
+    "static/js/main.bca103ff.chunk.js"
   ]
 }
